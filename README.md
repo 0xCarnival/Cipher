@@ -34,4 +34,3 @@ Contributions are welcome! If you have a tutorial, script, or project you'd like
 
 ---
 
-Happy coding and encrypting!
